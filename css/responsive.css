@@ -1,0 +1,801 @@
+ 
+ @media(max-width: 1100px){
+
+.me-footer-txt{
+	float: none;
+	text-align: center;
+}
+.me-social-icon{
+	float: none;
+	text-align: center;
+}
+
+}
+ 
+
+
+   /*992 px screen*/
+
+@media(max-width: 992px){
+
+.me-post-headline a h2{
+	font-size: 16px;
+	font-weight: 500;
+}
+.me-post-date em{
+	font-size: 10px;
+}
+.me-post-content a{
+	font-size: 12px;
+}
+
+
+
+
+}
+
+
+ /*991 px screen*/
+
+@media(max-width: 991px){
+
+.me-blog-sidebar{
+	display: none;
+}
+.me-faq-que h3{
+	font-size: 18px;
+}
+.me-faq-que h6{
+	font-size: 14px;
+}
+.me-faq-open i, .me-faq-close i{
+	font-size: 22px;
+}
+.me-faq-open, .me-faq-close{
+	right: 20px;
+}
+.me-faq-ans h3{
+	font-size: 18px;
+}
+.me-faq-ans h6{
+	font-size: 14px;
+}
+.products .product .star-rating{
+	font-size: 10px !important;
+}
+.products .product .button{
+	font-size: 12px;
+}
+.summary .product_title{
+	font-size: 20px;
+}
+.star-rating,
+.woocommerce-review-link
+{
+	font-size: 12px !important;
+}
+.me-new-single-product-sec .summary .woocommerce-Price-amount{
+	font-size: 20px !important;
+}
+.js-wsb-add-to-cart{
+	font-weight: 600;
+	border: 1px solid #fff;
+	padding: 6px 20px;
+}
+.quantity input{
+	padding: 6px !important;
+	border: 1px solid #000 !important;
+}
+.single_add_to_cart_button{
+	padding: 10px 20px !important;
+	border: 1px solid #fff !important; 
+}
+.tabs li{
+	font-size: 12px;
+}
+.yith-wcwl-add-button span{
+	font-size: 15px;
+}
+.related>h2{
+	border: 1px solid #000;
+	font-size: 16px;
+}
+.woocommerce-order-overview__total,
+.woocommerce-order-overview__payment-method{
+	margin-top: 20px;
+}
+
+
+}
+
+    /*768px screen*/
+
+@media(max-width: 768px){
+
+
+
+.products .product .star-rating{
+	font-size: 15px !important;
+}
+.products .product .button{
+	font-size: 15px;
+}
+.me-fepost-txt h4 a{
+	color: #F9690E;
+	text-transform: capitalize;
+	font-size: 18px;
+	font-weight: 400;
+}
+.me-con-form{
+	padding-top: 50px;
+}
+.me-logo{
+	width: 120px;
+}
+.search-field{
+	height: 35px;
+}
+.search-text-btn{
+	padding: 4px 10px;
+}
+.me-categories-menu-title h5{
+	font-size: 20px;
+}
+.me-categories-menu-title h5 i{
+	font-size: 25px;
+}
+.me-home-slider .item,
+.me-other-slider .item,
+.me-category-slider .item{
+	height: 300px;
+}
+.me-category-pagemenu ul li a{
+	font-size: 16px;
+	padding: 0 15px;
+	margin: 0 15px;
+} 
+.coupon input{
+	width: 200px !important;
+}
+.woocommerce-MyAccount-navigation{
+	margin-bottom: 40px;
+}
+
+
+
+}
+
+  /*767px screen */
+
+@media(max-width: 767px){
+
+.me-faqandpayment-payment-header h2, .me-faqandpayment-faq-header h2{
+	font-size: 20px;
+}
+.me-payment-header h2{
+	font-size: 20px;
+}
+.me-faq-que h3{
+	font-size: 16px;
+}
+.me-faq-que h6{
+	font-size: 12px;
+	margin-right: 10px;
+}
+.me-faq-open i, .me-faq-close i{
+	font-size: 18px;
+}
+.me-faq-open, .me-faq-close{
+	right: 15px;
+}
+.me-faq-ans h3{
+	font-size: 16px;
+}
+.me-faq-ans h6{
+	font-size: 12px;
+}	
+.me-fepost-item{
+	margin-bottom: 20px;
+}
+.me-social-acunt, .me-selling-info, .me-payment-sys{
+	margin-bottom: 20px;
+}
+.me-categories-menu-title h5{
+	font-size: 16px;
+}
+.me-categories-menu-title h5 i{
+	font-size: 20px;
+}
+.me-offer-content h2{
+	font-weight: 600;
+	font-size: 30px;
+}
+.me-offer-content h2 span{
+	font-weight: 500;
+	font-size: 20px;
+}
+#me-offer-started div span{
+	font-size: 30px;
+}
+#me-offer-started div span:nth-child(2){
+	font-size: 15px;
+}
+
+} 
+
+         /*576px screen */
+
+@media(max-width: 576px){
+
+.me-erorr-icon{
+	width: 150px;
+}
+.me-erorr-text h2{
+	font-size: 30px;
+}
+.me-erorr-text p{
+	font-size: 20px;
+}
+.e404{
+	font-size: 70px;
+}
+.me-faq-open, .me-faq-close{
+	top: 15%;
+}
+.me-top-menu ul li a{
+	font-size: 14px;
+	padding: 10px 6px 0;
+}	
+.me-top-menu ul li a i{
+	padding-right: 3px;
+	font-size: 16px;
+}
+.me-logo{
+	width: 100px;
+}
+.search-field{
+	height: 30px;
+}
+.search-text-btn{
+	padding: 2px 5px;
+}
+.me-categories-menu-title h5{
+	font-size: 16px;
+}
+.me-categories-menu-title h5 i{
+	font-size: 16px;
+}
+.me-home-slider .item,
+.me-other-slider .item,
+.me-category-slider .item{
+	height: 250px;
+}
+.me-category-menu{
+	padding: 30px 20px;
+}
+.me-category-menu ul li a{
+	font-size: 14px;
+}
+.me-category-pagemenu ul li a{
+	font-size: 14px;
+	padding: 0 10px;
+	margin: 0 10px;
+}
+.me-popular-items-header h3{
+	font-size: 25px;
+	font-weight: 500;
+	border-left: 5px solid #F9690E;
+}
+.me-discount-items-header h3{
+	font-size: 25px;
+	font-weight: 500;
+	border-left: 5px solid #006442;
+}
+.me-newArrival-items-header h3{
+	font-size: 25px;
+	font-weight: 500;
+	border-left: 5px solid #875F9A;
+}
+.me-product-brand-title h3{
+	font-size: 25px;
+	font-weight: 500;
+	border-left: 5px solid #F9690E;
+}
+.me-fepost-header h3{
+	font-size: 25px;
+	font-weight: 500;
+	border-left: 5px solid #006442;
+}
+.me-new-product-sec,
+.me-product-brand{
+	background-color: #C91F37;
+}
+.me-discount-items,
+.me-popular-items, 
+.me-newArrival-items, 
+.me-search-bar{
+	background-color: #F62459;
+}
+.me-home-pro-ad{
+	height: 300px;
+}
+.me-post-feature, .me-post-section{
+	background-color: #003171;
+}
+.me-post-content{
+	color: #fff;
+	font-size: 14px;
+	font-weight: 400;
+}
+.me-con-map iframe{
+	width: 100%;
+	height: 300px;
+}
+.me-faq-que h3{
+	font-size: 18px;
+}
+.me-faq-que h6{
+	font-size: 14px;
+}
+.me-faq-open i, .me-faq-close i{
+	font-size: 22px;
+}
+.me-faq-open, .me-faq-close{
+	right: 20px;
+}
+.me-faq-ans h3{
+	font-size: 18px;
+}
+.me-faq-ans h6{
+	font-size: 14px;
+}
+.me-offer-content h2{
+	font-weight: 600;
+	font-size: 30px;
+}
+.me-offer-content h2 span{
+	font-weight: 500;
+	font-size: 20px;
+}
+#me-offer-started div span{
+	font-size: 30px;
+}
+#me-offer-started div span:nth-child(2){
+	font-size: 15px;
+}
+.woocommerce-shipping-destination{
+	color: #000 !important;
+}
+.search-text-btn i{
+	font-size: 12px;
+}
+.shop_table tbody .product-quantity{
+	color: #F9690E !important;
+}
+.cart-subtotal,
+.woocommerce-shipping-totals,
+.order-total{
+	color: #F9690E !important;
+}
+.woocommerce-checkout-payment{
+	color: #000 !important;
+}
+
+
+
+
+}
+
+@media(max-width: 575px){
+
+.search-field{
+	height: 30px;
+	margin: 20px 0;
+}
+.search-text-btn{
+	padding: 3px 10px;
+	margin: 20px 0;
+}
+
+
+}
+
+
+  /*480px screen*/
+
+@media(max-width: 480px){
+
+.me-home-pro-ad{
+	height: 250px;
+}
+.me-pro-brand-logo{
+	width: 100px;
+}
+.me-scrollar{
+	right: 20px;
+}
+.me-offer-content h2{
+	font-weight: 600;
+	font-size: 30px;
+}
+.me-offer-content h2 span{
+	font-weight: 500;
+	font-size: 20px;
+}
+.me-lsc-section{
+	padding: 30px 0;
+}
+.me-logo{
+	width: 100px;
+}
+.search-field{
+	height: 30px;
+	margin: 20px 0;
+}
+.search-text-btn{
+	padding: 3px 10px;
+	margin: 20px 0;
+}
+.me-home-slider .item,
+.me-other-slider .item,
+.me-category-slider .item{
+	height: 200px;
+}
+.me-category-pagemenu ul li a{
+	font-size: 12px;
+	padding: 0 6px;
+	margin: 0 6px;
+}
+.me-payment-sys h4, .me-social-acunt h4{;
+	color: #F9690E;
+}
+.me-tc-details p{
+	font-size: 14px;
+}
+.me-payment-details p{
+	font-size: 12px;
+}
+.me-post-content{
+	font-size: 10px;
+}
+#tab-description p{
+	font-size: 12px !important;
+}
+.woocommerce-billing-fields .woocommerce-input-wrapper input{
+	padding: 5px !important;
+	border: 1px solid #fff;
+	border-radius: 5px;
+	font-size: 15px !important;
+}
+.woocommerce-billing-fields__field-wrapper p label{
+	font-size: 15px !important;
+}
+.woocommerce-input-wrapper textarea{
+	height: 120px !important;
+}
+.woocommerce-order-overview__total{
+	margin-top: 0;
+}
+
+
+}
+
+	/*400px screen*/
+
+@media(max-width: 400px){
+
+.woocommerce-order-overview__total{
+	margin-top: 20px;
+}
+.me-tc-details{
+	padding: 40px 0;
+}
+.me-tc-header h2{
+	font-size: 20px;
+}
+.me-faq-que h6{
+	font-size: 10px;
+}
+.me-faq-open i, .me-faq-close i{
+	font-size: 15px;
+}
+.me-faq-ans h6{
+	font-size: 10px;
+}
+.me-post-content p{
+	color: #fff;
+	font-size: 12px;
+}
+.me-post-date em{
+	font-size: 8px;
+}
+.me-post-headline a h2{
+	font-size: 15px;
+}
+.me-footer-txt p{
+	font-weight: 400;
+	font-size: 12px;
+}
+.me-footer-txt p i{
+	font-size: 15px;
+}
+.me-social-icon a i{
+	font-size: 20px; 
+}
+.search-field{
+	width: 70%;
+	padding: 5px 0;
+	border-radius: 3px 0 0 3px;
+}
+.search-text-btn{
+	padding: 6px 15px;
+	font-size: 12px;
+	font-weight: 500;
+	border-radius: 0 3px 3px 0;
+}
+.me-faq-open, .me-faq-close{
+	top: 15%;
+}
+.me-faqandpayment-payment-header h2, .me-faqandpayment-faq-header h2{
+	font-size: 20px;
+}
+.me-payment-header h2{
+	font-size: 20px;
+}
+.me-offer-content h2{
+	font-size: 25px;
+}
+.me-offer-content h2 span{
+	font-size: 18px;
+}
+#me-offer-started div span{
+	font-size: 22px;
+}
+#me-offer-started div span:nth-child(2){
+	font-size: 12px;
+}
+.me-erorr-text p{
+	font-size: 12px;
+}
+.coupon input{
+	width: 150px !important;
+}
+.woocommerce-result-count{
+	display: none;
+}
+.me-con-header h2{
+	font-size: 25px;
+}
+.woocommerce-ordering{
+	display: none;
+}
+.products .product .button{
+	font-size: 10px;
+}
+.products .product .star-rating{
+	font-size: 10px !important;
+}
+.products .product .woocommerce-loop-product__title{
+	font-size: 10px !important;
+}
+.tabs li{
+	font-size: 8px;
+}
+.woocommerce-checkout-payment p{
+	color: #000 !important;
+}
+.woocommerce-billing-fields h3{
+	font-size: 20px; 
+}
+
+
+}
+     /*360px screen	*/
+
+@media(max-width: 360px){
+
+
+.ysend{
+	padding: 6px 40px;
+}
+.me-post-headline a h2{
+	font-size: 14px;
+}
+.me-scrollar i{
+	width: 30px;
+	height: 30px;
+	font-size: 10px;
+}
+.me-home-pro-ad{
+	height: 220px;
+}
+.me-categories-pageMenu{
+	padding: 20px 0;
+}
+.me-product-name a strong{
+	font-size: 10px;
+}
+.me-category-pagemenu ul li a{
+	font-size: 8px;
+	padding: 0 4px;
+	margin: 0 4px;
+}
+.me-post-content p{
+	font-size: 10px;
+}
+.me-pagination a{
+	padding: 5px 10px;
+	margin: 0 2px;
+	box-shadow: 0 0 5px #000;
+	font-size: 10px;
+}
+.me-pagination .current{
+	padding: 5px 10px;
+	margin: 0 2px;
+	-webkit-box-shadow: 0 0 5px #000;
+	box-shadow: 0 0 5px #000;
+	font-size: 10px;
+}
+.me-con-header h2{
+	font-size: 25px;
+	font-weight: 600;
+}
+.me-con-map iframe{
+	width: 100%;
+	height: 250px;
+}
+.me-faq-que h3, .me-faq-ans h3{
+	font-size: 15px;
+}
+.me-faq-que h6, .me-faq-ans h6{
+	font-size: 12px;
+}
+.me-offer-content h2{
+	font-size: 15px;
+}
+.me-offer-content h2 span{
+	font-size: 10px;
+}
+#me-offer-started div span{
+	font-size: 18px;
+}
+#me-offer-started div span:nth-child(2){
+	font-size: 8px;
+}
+
+.shop_table tbody .button{
+	font-size: 12px !important;
+	font-weight: 400;
+	width: 100px !important;
+}
+.woocommerce-orders-table__cell-order-actions .button{
+	text-align: center;
+	margin-bottom: 3px !important;
+}
+
+
+
+} 
+
+     /*320px screen	*/
+
+@media(max-width: 320px){
+
+.woocommerce-order-overview__email{
+	margin-top: 20px;
+}
+.me-tc-details{
+	padding: 20px 0;
+}
+.me-scrollar i{
+	width: 20px;
+	height: 20px;
+	font-size: 8px;
+}
+.me-home-pro-ad{
+	height: 200px;
+}
+.me-categories-pageMenu{
+	padding: 20px 0;
+}
+.me-product-name a strong{
+	font-size: 10px;
+}
+.me-category-pagemenu ul li a{
+	font-size: 8px;
+	padding: 0 4px;
+	margin: 0 4px;
+}
+.me-post-content p{
+	font-size: 10px;
+}
+.me-pagination a{
+	padding: 5px 10px;
+	margin: 0 2px;
+	box-shadow: 0 0 5px #000;
+	font-size: 10px;
+}
+.me-con-header h2{
+	font-size: 25px;
+	font-weight: 600;
+}
+.me-con-map iframe{
+	width: 100%;
+	height: 250px;
+}
+.me-faq-que h3, .me-faq-ans h3{
+	font-size: 15px;
+}
+.me-faq-que h6, .me-faq-ans h6{
+	font-size: 12px;
+}
+.me-offer-content h2{
+	font-size: 15px;
+}
+.me-offer-content h2 span{
+	font-size: 10px;
+}
+#me-offer-started div span{
+	font-size: 18px;
+}
+#me-offer-started div span:nth-child(2){
+	font-size: 8px;
+}
+.shop_table tbody .button{
+	font-size: 12px !important;
+	font-weight: 400;
+	width: 100px !important;
+}
+.me-erorr-icon{
+	width: 100px;
+}
+.me-erorr{
+	padding: 100px 0;
+}
+.js-wsb-add-to-cart{
+	font-weight: 500;
+	padding: 5px 10px;
+}
+.quantity input{
+	padding: 5px !important;
+}
+.single_add_to_cart_button{
+	padding: 8px 10px !important;
+}
+.woocommerce-review__author{
+	font-size: 12px !important;
+}
+.woocommerce-review__verified,
+.woocommerce-review__published-date{
+	font-size: 10px !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
